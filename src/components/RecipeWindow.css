@@ -33,5 +33,6 @@
 }
 
 .recipe img{
-    width: 100%;
+    width: 25rem;
+    min-height: 20vh;
 }
